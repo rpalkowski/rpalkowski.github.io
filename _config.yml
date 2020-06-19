@@ -2,10 +2,10 @@ title: Radosław Pałkowski # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 # logo: "https://github.com/evanca/evanca.github.io/blob/master/logo.png?raw=true"
 description: > # newlines will be ignored in this theme, using <br> instead
-  Data Analyst (SQL / R) | Android Developer (Java / Android Studio IDE)
+  Data Analyst (SQL / R) | bum | bum 
   <br><br>
-  Data Analyst Nanodegree (Udacity Bertelsmann Data Science Scholarship)
+  Data Analyst Nanodegree
   <br><br>
-  <a href="https://www.linkedin.com/in/acevica/">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/xxx">View My LinkedIn Profile</a>
   
 theme: jekyll-theme-minimal
