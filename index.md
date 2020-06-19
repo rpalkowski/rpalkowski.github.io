@@ -9,6 +9,8 @@
 ---
 [Project 1 Title](/mapy)
 
+[Project 2 WIZ-projekt](/WIZ-projekt)
+
 [(Tableau) Airline On-Time Performance Exploration](https://public.tableau.com/profile/evanca#!/vizhome/AirlineOn-TimePerformanceExploration/Story)
 <img src="https://github.com/evanca/evanca.github.io/blob/master/images/dand_p8_thumbnail.jpg?raw=true"/>
 
