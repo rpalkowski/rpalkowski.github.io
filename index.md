@@ -10,6 +10,7 @@
 [Project 1 Title](/mapy)
 
 [Project 2 WIZ-projekt](/WIZ-projekt)
+<img src="https://github.com/rpalkowski/wiz-projekt/blob/master/Figs/unnamed-chunk-4-1.png"/>
 
 [(R) WIZ-projekt - full code](https://github.com/rpalkowski/wiz-projekt)
 
