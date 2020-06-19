@@ -9,19 +9,5 @@ description: > # newlines will be ignored in this theme, using <br> instead
   <a href="https://www.linkedin.com/in/xxx">View My LinkedIn Profile</a>
 show_downloads: true ["true" or "false" to indicate whether to provide a download URL]
 
-  links:
-    - label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
-
 
 theme: jekyll-theme-minimal
