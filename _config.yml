@@ -7,5 +7,5 @@ description: > # newlines will be ignored in this theme, using <br> instead
   Data Analyst Nanodegree
   <br><br>
   <a href="https://www.linkedin.com/in/xxx">View My LinkedIn Profile</a>
-  
+show_downloads: true ["true" or "false" to indicate whether to provide a download URL]
 theme: jekyll-theme-minimal
