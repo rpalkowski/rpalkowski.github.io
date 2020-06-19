@@ -7,6 +7,7 @@
 *"Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician." (Josh Wills, 2012).*
 
 ---
+[Project 1 Title](/mapy)
 [(Tableau) Airline On-Time Performance Exploration](https://public.tableau.com/profile/evanca#!/vizhome/AirlineOn-TimePerformanceExploration/Story)
 <img src="https://github.com/evanca/evanca.github.io/blob/master/images/dand_p8_thumbnail.jpg?raw=true"/>
 
