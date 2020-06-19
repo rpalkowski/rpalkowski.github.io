@@ -10,10 +10,10 @@
 [Project 1 Title](/mapy)
 
 [Project 2 WIZ-projekt](/WIZ-projekt)
-<img src="https://github.com/rpalkowski/wiz-projekt/blob/master/Figs/unnamed-chunk-4-1.png"/>
+<img src="https://github.com/rpalkowski/wiz-projekt/blob/master/Figs/unnamed-chunk-4-1.png?raw=true"/>
 
 drugi link - do folderu figs bezpośrenido z repo z portfolio
-<img src="https://github.com/rpalkowski/rpalkowski.github.io/blob/master/Figs/unnamed-chunk-6-1.png"/>
+<img src="https://github.com/rpalkowski/rpalkowski.github.io/blob/master/Figs/unnamed-chunk-6-1.png?raw=true"/>
 
 https://github.com/rpalkowski/rpalkowski.github.io/blob/master/Figs/unnamed-chunk-6-1.png
 
