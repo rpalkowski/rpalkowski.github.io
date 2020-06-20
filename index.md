@@ -15,7 +15,7 @@
 
 [Projekt 2 (2018) - Podstawa wizualizacji map w R](/basic_maps)
 <img src="https://github.com/rpalkowski/basic-maps/blob/master/wykresy/basic_maps_4-1.png?raw=true"/>
-[Link do repozytorium projektu](https://github.com/rpalkowski/basic_maps)
+[Link do repozytorium projektu](https://github.com/rpalkowski/basic-maps)
 
 
 
