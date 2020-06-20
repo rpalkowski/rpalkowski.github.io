@@ -7,7 +7,7 @@
 *"Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician." (Josh Wills, 2012).*
 
 ---
-[Project 1 Title](/mapy)
+[Projekt 1 (2018) - Analiza systemu wypożyczalni rowerów publicznych w Waszyngtonie](/bike-sharing)
 
 [Project 2 WIZ-projekt](/WIZ-projekt)
 <img src="https://github.com/rpalkowski/wiz-projekt/blob/master/Figs/unnamed-chunk-4-1.png?raw=true"/>
