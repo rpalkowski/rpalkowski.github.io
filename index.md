@@ -13,9 +13,9 @@
 
 
 
-[Project 2 WIZ-projekt](/bike_sharing)
-<img src="https://github.com/rpalkowski/bike-sharing/blob/master/wykresy/bike-sharing-1-1.png?raw=true"/>
-
+[Projekt (2018) - Podstawa wizualizacji map w R](/basic_maps)
+<img src="https://github.com/rpalkowski/basic-maps/blob/master/wykresy/basic_maps_2-1.png?raw=true"/>
+[Link do repozytorium projektu](https://github.com/rpalkowski/basic_maps)
 
 
 
