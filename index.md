@@ -8,6 +8,7 @@
 
 ---
 [Projekt 1 (2018) - Analiza systemu wypożyczalni rowerów publicznych w Waszyngtonie](/bike-sharing)
+<img src="https://github.com/rpalkowski/bike-sharing/blob/master/wykresy/bike-sharing-1-1.png?raw=true"/>
 
 [Project 2 WIZ-projekt](/WIZ-projekt)
 <img src="https://github.com/rpalkowski/wiz-projekt/blob/master/Figs/unnamed-chunk-4-1.png?raw=true"/>
