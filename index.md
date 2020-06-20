@@ -9,7 +9,6 @@
 ---
 [Projekt 1 (2018) - Analiza systemu wypożyczalni rowerów publicznych w Waszyngtonie](/bike_sharing)
 <img src="https://github.com/rpalkowski/bike-sharing/blob/master/wykresy/bike-sharing-1-1.png?raw=true"/>
-
 [Link do repozytorium](https://github.com/rpalkowski/bike-sharing)
 
 
