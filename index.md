@@ -10,15 +10,21 @@
 [Projekt 1 (2018) - Analiza systemu wypożyczalni rowerów publicznych w Waszyngtonie](/bike-sharing)
 <img src="https://github.com/rpalkowski/bike-sharing/blob/master/wykresy/bike-sharing-1-1.png?raw=true"/>
 
-[Project 2 WIZ-projekt](/WIZ-projekt)
-<img src="https://github.com/rpalkowski/wiz-projekt/blob/master/Figs/unnamed-chunk-4-1.png?raw=true"/>
+[Project 2 WIZ-projekt](/bike-sharing)
+<img src="https://github.com/rpalkowski/bike-sharing/blob/master/wykresy/bike-sharing-1-1.png?raw=true"/>
 
-drugi link - do folderu figs bezpośrenido z repo z portfolio
-<img src="https://github.com/rpalkowski/rpalkowski.github.io/blob/master/Figs/unnamed-chunk-6-1.png?raw=true"/>
+[Link do repozytorium](https://github.com/rpalkowski/bike-sharing)
 
-https://github.com/rpalkowski/rpalkowski.github.io/blob/master/Figs/unnamed-chunk-6-1.png
 
-[(R) WIZ-projekt - full code](https://github.com/rpalkowski/wiz-projekt)
+
+
+
+
+
+
+
+
+
 
 [(Tableau) Airline On-Time Performance Exploration](https://public.tableau.com/profile/evanca#!/vizhome/AirlineOn-TimePerformanceExploration/Story)
 <img src="https://github.com/evanca/evanca.github.io/blob/master/images/dand_p8_thumbnail.jpg?raw=true"/>
