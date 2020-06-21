@@ -552,3 +552,5 @@ warunki atmosferyczne). Z drugiej strony można odnaleźć czynniki, które
 przy zastosowaniu odpowiednich zabiegów np. oferta promocyjna w trakcie
 weekendów, mogą mieć wpływ na decyzję o skorzystaniu z usług
 wypożyczalni.
+
+[Powrót](./)
