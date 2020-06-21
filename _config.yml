@@ -7,7 +7,7 @@ description: > # newlines will be ignored in this theme, using <br> instead
   Data Analyst Nanodegree
   <br><br>
   <a href="https://www.linkedin.com/in/xxx">Profil LinkedIn</a>
-  <a href="https://github.com/rpalkowski">Profil GitHub</a>
+  <br><br>
 # show_downloads: true ["true" or "false" to indicate whether to provide a download URL]
 # na obecną chwilę - niepotrzebne 
 
