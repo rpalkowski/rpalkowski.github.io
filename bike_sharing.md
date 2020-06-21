@@ -1,3 +1,6 @@
+[Powrót](./)
+
+
 ### <span style="color:#0066ff">**1. Źródło danych**</span>
 
 #### <span style="color:#0066ff">**1.1. Informacje o źródle** </span>
