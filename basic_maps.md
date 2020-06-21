@@ -1,3 +1,5 @@
+[Powrót](./)
+
 Wstęp
 -----
 
@@ -260,3 +262,5 @@ zakresie tworzenia map geograficznych.
     wybranych miast w Polsce
 -   Plik *Mapy w R.rmd* zawierający całą pracę wraz z użytymi kodami
     w R. Raport został stworzony przy użyciu *R Markdown*.
+
+[Powrót](./)
