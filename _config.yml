@@ -2,7 +2,7 @@ title: Radosław Pałkowski # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 # logo: "https://github.com/evanca/evanca.github.io/blob/master/logo.png?raw=true"
 description: > # newlines will be ignored in this theme, using <br> instead
-  Data mining, data visualization, machine learning, data storytelling, data journalism
+  Data mining, machine learning, data journalism, visualization
   <br><br>
   <a href="https://www.linkedin.com/in/xxx">Profil LinkedIn</a>
 # show_downloads: true ["true" or "false" to indicate whether to provide a download URL]
