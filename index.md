@@ -4,7 +4,7 @@
 
 ### Data Analysis
 
-*"Let my dataset change your mindset" (Hans Rosling, 2009).*
+*"Let my dataset change your mindset" (Hans Rosling, 2009)*
 
 ---
 [Projekt 1 (2018) - Analiza systemu wypożyczalni rowerów publicznych w Waszyngtonie](/bike_sharing)
