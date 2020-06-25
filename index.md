@@ -4,8 +4,6 @@
 
 ### Data Analysis
 
-*"Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician." (Josh Wills, 2012).*
-
 *"Let my dataset change your mindset" (Hans Rosling, 2009).*
 
 ---
