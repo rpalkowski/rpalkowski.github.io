@@ -2,8 +2,6 @@
 
 ---
 
-### Data Analysis
-
 *"Let my dataset change your mindset" (Hans Rosling, 2009)*
 
 ---
