@@ -224,7 +224,8 @@ Ostateczny wygląd mapy:
 
 <img src="wykresy/basic_maps_4-1.png" style="display: block; margin: auto;" />
 
-\#\#Podsumowanie
+Podsumowanie
+---------------------------------------------------------------
 
 Możliwości przedstawienia różnego rodzaju zjawisk na wygenerowanych
 mapach w pakiecie statystycznym R są praktycznie nieograniczone.
@@ -234,7 +235,8 @@ danych geograficznych w zależności od potrzeb. Praca miała na celu
 pokazanie podstawowych możliwości jakie oferuje pakiet statystyczny R w
 zakresie tworzenia map geograficznych.
 
-\#\#Bibliografia
+Bibliografia
+---------------------------------------------------------------
 
 -   Anderson E. C., *Making maps with R* \[online:\]
     <a href="http://eriqande.github.io/rep-res-web/lectures/making-maps-with-R.html" class="uri">http://eriqande.github.io/rep-res-web/lectures/making-maps-with-R.html</a>
