@@ -248,7 +248,8 @@ Bibliografia
 -   Strona internetowa pakietu statystycznego R:
     <a href="https://cran.r-project.org/web/views/Spatial.html" class="uri">https://cran.r-project.org/web/views/Spatial.html</a>
 
-**Wykorzystane zbiory danych**
+Wykorzystane zbiory danych
+---------------------------------------------------------------
 
 -   Pliki *shapefile* zostały pobrane ze strony internetowej Centralnego
     Ośrodka Dokumentacji Geodezyjnej i Kartograficznej:
@@ -258,7 +259,8 @@ Bibliografia
     internetowej:
     <a href="https://www.wspolrzedne.pl/" class="uri">https://www.wspolrzedne.pl/</a>
 
-\*\* Załączniki\*\*
+Załączniki
+---------------------------------------------------------------
 
 -   Plik *wspolrzedne.csv* zawierający współrzędne geograficzne
     wybranych miast w Polsce
