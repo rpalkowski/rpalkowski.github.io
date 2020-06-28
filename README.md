@@ -1,4 +1,2 @@
-Portfolio 
-
 # rpalkowski.github.io
 
