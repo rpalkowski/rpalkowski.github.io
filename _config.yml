@@ -4,7 +4,7 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # newlines will be ignored in this theme, using <br> instead
   Data mining, machine learning, data journalism, visualization
   <br><br>
-  <a href="https://www.linkedin.com/in/xxx">Profil LinkedIn</a>
+  <a href="https://www.linkedin.com/in/rados%C5%82aw-pa%C5%82kowski-9908871b1/">Profil LinkedIn</a>
 # show_downloads: true ["true" or "false" to indicate whether to provide a download URL]
 # na obecną chwilę - niepotrzebne 
 theme: jekyll-theme-minimal
