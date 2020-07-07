@@ -18,7 +18,7 @@
 
 [Wybory prezydenckie 2020 - I tura - wizualizacja na mapach](/wybory-2020)
 
-[Link do repozytorium projektu](https://github.com/rpalkowski/wybory-2020)
+[Link do repozytorium projektu](https://github.com/rpalkowski/wybory-2020/I_tura)
 
 
 
