@@ -6,7 +6,7 @@
 
 ---
 
-[Wybory prezydenckie 2020 - I tura - wizualizacja na mapach](/I_tura)
+[Wizualizacja na mapach wyników I tury wyborów prezydenckich 2020](/I_tura)
 <img src="https://github.com/rpalkowski/rpalkowski.github.io/blob/master/wykresy/frekwencja_mapa-1.png?raw=true"/>
 [Link do repozytorium projektu](https://github.com/rpalkowski/wybory-2020/tree/master/I_tura)
 
@@ -18,7 +18,7 @@
 
 ---
 
-[Podstawa wizualizacji map w R](/basic_maps)
+[Podstawy wizualizacji map w R](/basic_maps)
 <img src="https://github.com/rpalkowski/basic-maps/blob/master/wykresy/basic_maps_4-1.png?raw=true"/>
 [Link do repozytorium projektu](https://github.com/rpalkowski/basic-maps)
 
