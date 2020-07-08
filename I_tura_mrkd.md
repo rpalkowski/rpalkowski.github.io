@@ -5,3 +5,6 @@
 <img src="wykresy/unnamed-chunk-4-1.png" style="display: block; margin: auto;" />
 
 <img src="wykresy/poparcie_rt-1.png" style="display: block; margin: auto;" />
+
+
+<img src="wykresy/poparcie_proc_top3.png" style="display: block; margin: auto;" />
