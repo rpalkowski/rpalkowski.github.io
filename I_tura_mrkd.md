@@ -6,9 +6,9 @@
 
 <img src="wykresy/zwyciezcy_gminy-1.png" style="display: block; margin: auto;" />
 
-<img src="wykresy/mapa_poparcie_proc_top3-1.png" style="display: block; margin: auto;" />
+<img src="wykresy/poparcie_proc_top3-1.png" style="display: block; margin: auto;" />
 
-<img src="wykresy/mapa_poparcie_proc_last5-1.png" style="display: block; margin: auto;" />
+<img src="wykresy/poparcie_proc_last5-1.png" style="display: block; margin: auto;" />
 
 <img src="wykresy/poparcie_proc_rt-1.png" style="display: block; margin: auto;" />
 
