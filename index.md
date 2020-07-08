@@ -5,20 +5,24 @@
 *"Let my dataset change your mindset" (Hans Rosling, 2009)*
 
 ---
-[Projekt 1 - Analiza systemu wypożyczalni rowerów publicznych w Waszyngtonie](/bike_sharing)
-<img src="https://github.com/rpalkowski/bike-sharing/blob/master/wykresy/bike-sharing-1-1.png?raw=true"/>
-[Link do repozytorium projektu](https://github.com/rpalkowski/bike-sharing)
-
-
-
-[Projekt 2 - Podstawa wizualizacji map w R](/basic_maps)
-<img src="https://github.com/rpalkowski/basic-maps/blob/master/wykresy/basic_maps_4-1.png?raw=true"/>
-[Link do repozytorium projektu](https://github.com/rpalkowski/basic-maps)
-
 
 [Wybory prezydenckie 2020 - I tura - wizualizacja na mapach](/I_tura)
 <img src="https://github.com/rpalkowski/rpalkowski.github.io/blob/master/wykresy/frekwencja_mapa-1.png?raw=true"/>
 [Link do repozytorium projektu](https://github.com/rpalkowski/wybory-2020/tree/master/I_tura)
+
+---
+
+[Analiza systemu wypożyczalni rowerów publicznych w Waszyngtonie](/bike_sharing)
+<img src="https://github.com/rpalkowski/bike-sharing/blob/master/wykresy/bike-sharing-1-1.png?raw=true"/>
+[Link do repozytorium projektu](https://github.com/rpalkowski/bike-sharing)
+
+---
+
+[Podstawa wizualizacji map w R](/basic_maps)
+<img src="https://github.com/rpalkowski/basic-maps/blob/master/wykresy/basic_maps_4-1.png?raw=true"/>
+[Link do repozytorium projektu](https://github.com/rpalkowski/basic-maps)
+
+---
 
 
 
