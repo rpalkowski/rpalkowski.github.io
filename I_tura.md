@@ -1,3 +1,7 @@
+[Powrót](./)
+
+[Mapy w większej rozdzielczości](https://github.com/rpalkowski/wybory-2020/tree/master/I_tura)
+
 ------------------------------------------------------------------------
 
 <img src="wykresy/frekwencja_mapa-1.png" style="display: block; margin: auto;" />
@@ -31,3 +35,6 @@
 <img src="wykresy/poparcie_proc_ww-1.png" style="display: block; margin: auto;" />
 
 <img src="wykresy/poparcie_proc_mp-1.png" style="display: block; margin: auto;" />
+
+
+[Powrót](./)
