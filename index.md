@@ -16,10 +16,9 @@
 [Link do repozytorium projektu](https://github.com/rpalkowski/basic-maps)
 
 
-[Wybory prezydenckie 2020 - I tura - wizualizacja na mapach](/I_tura_mrkd)
-
+[Wybory prezydenckie 2020 - I tura - wizualizacja na mapach](/I_tura)
+<img src="https://github.com/rpalkowski/rpalkowski.github.io/blob/master/wykresy/frekwencja_mapa-1.png?raw=true"/>
 [Link do repozytorium projektu](https://github.com/rpalkowski/wybory-2020/tree/master/I_tura)
-
 
 
 
