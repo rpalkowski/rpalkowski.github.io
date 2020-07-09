@@ -259,12 +259,4 @@ Wykorzystane zbiory danych
     internetowej:
     <a href="https://www.wspolrzedne.pl/" class="uri">https://www.wspolrzedne.pl/</a>
 
-Załączniki
----------------------------------------------------------------
-
--   Plik *wspolrzedne.csv* zawierający współrzędne geograficzne
-    wybranych miast w Polsce
--   Plik *Mapy w R.rmd* zawierający całą pracę wraz z użytymi kodami
-    w R. Raport został stworzony przy użyciu *R Markdown*.
-
 [Powrót](./)
