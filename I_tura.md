@@ -55,9 +55,9 @@ Jak wygląda zbiór danych?
 
 #### Rozpoznawanie płci po imieniu
 
-*Założenie:* Polskie imiona żeńskie kończą się na literę “a” z niektórymi
+**Założenie:** *Polskie imiona żeńskie kończą się na literę “a” z niektórymi
 wyjątkami imion męskich tj. Bonawentura, Barnaba, Kosma, Dyzma, Juda.
-Pozostałe imiona to imiona męskie.
+Pozostałe imiona to imiona męskie.*
 
 Płeć członków komisji osądzimy na podstawie pierwszego imienia danej
 osoby.
