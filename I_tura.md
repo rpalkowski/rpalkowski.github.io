@@ -1,3 +1,8 @@
+[Powrót](./)
+
+[Mapy w większej rozdzielczości](https://github.com/rpalkowski/wybory-2020/tree/master/I_tura)
+
+
 ------------------------------------------------------------------------
 
 <img src="wykresy/frekwencja_mapa-1.png" style="display: block; margin: auto;" />
@@ -32,7 +37,9 @@
 
 <img src="wykresy/poparcie_proc_mp-1.png" style="display: block; margin: auto;" />
 
-### Bonus - skład obwodowych komisji
+------------------------------------------------------------------------
+
+### Dodatek - Czy w obwodowych komisjach więcej jest kobiet czy mężczyzn?
 
 Jak wygląda zbiór danych?
 
@@ -46,11 +53,9 @@ Jak wygląda zbiór danych?
     ## 5 020101        m. Bolesławiec bolesła~         1 Lisiecki  Dominik~ Członek    
     ## 6 020101        m. Bolesławiec bolesła~         1 Czerepak  Daria    Członek
 
-### Dodatek - Czy w obwodowych komisjach więcej jest kobiet czy mężczyzn?
+#### Rozpoznawanie płci po imieniu
 
-#### Funkcja rozpoznająca płeć po imieniu
-
-*Założenie:* Imiona żeńskie kończą się na literę “a” z niektórymi
+*Założenie:* Polskie imiona żeńskie kończą się na literę “a” z niektórymi
 wyjątkami imion męskich tj. Bonawentura, Barnaba, Kosma, Dyzma, Juda.
 Pozostałe imiona to imiona męskie.
 
@@ -58,3 +63,9 @@ Płeć członków komisji osądzimy na podstawie pierwszego imienia danej
 osoby.
 
 <img src="wykresy/plec_przewazajaca-1.png" style="display: block; margin: auto;" />
+
+------------------------------------------------------------------------
+
+[Powrót](./)
+
+
