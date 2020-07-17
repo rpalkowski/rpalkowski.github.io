@@ -1,17 +1,26 @@
----
+[Powrót](./)
+
+[Mapy w większej rozdzielczości](https://github.com/rpalkowski/wybory-2020/tree/master/I_tura)
 
 
-<img src="https://github.com/rpalkowski/wybory-2020/blob/master/II_tura/wykresy/poparcie_proc_II_tura-1.png?raw=true"/>
-[Link do repozytorium projektu](https://github.com/rpalkowski/wybory-2020/tree/master/II_tura)
+------------------------------------------------------------------------
 
----
+<img src="wykresy/frekwencja_mapa_II_tura-1.png" style="display: block; margin: auto;" />
+
+<img src="wykresy/glosy_niewazne_II_tura-1.png" style="display: block; margin: auto;" />
+
+<img src="wykresy/zwyciezcy_gminy_II_tura-1.png" style="display: block; margin: auto;" />
+
+<img src="wykresy/poparcie_proc_II_tura-1.png" style="display: block; margin: auto;" />
+
+<img src="wykresy/poparcie_proc_rt_II_tura-1.png" style="display: block; margin: auto;" />
+
+<img src="wykresy/poparcie_proc_ad_II_tura-1.png" style="display: block; margin: auto;" />
+
+------------------------------------------------------------------------
 
 
-<img src="https://github.com/rpalkowski/wybory-2020/blob/master/I_tura/wykresy/frekwencja_mapa-1.png?raw=true"/>
-[Link do repozytorium projektu](https://github.com/rpalkowski/wybory-2020/tree/master/I_tura)
-
----
-
+[Powrót](./)
 
 R Markdown
 ----------
