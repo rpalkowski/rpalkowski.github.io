@@ -5,7 +5,7 @@
 *"Let my dataset change your mindset" (Hans Rosling, 2009)*
 
 
-[Wybory 2020](/podstrona)
+<!-- [Wybory 2020](/podstrona) -->
 
 ---
 
