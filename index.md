@@ -4,6 +4,9 @@
 
 *"Let my dataset change your mindset" (Hans Rosling, 2009)*
 
+
+[Wybory 2020](/podstrona)
+
 ---
 
 [Wizualizacja na mapach wyników II tury wyborów prezydenckich 2020](/II_tura)
