@@ -3,8 +3,12 @@ title: "Untitled"
 output: github_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+
+
+```{r setup, echo=FALSE, warning=FALSE, message=FALSE}
+knitr::opts_chunk$set(fig.width=6, fig.height=6, fig.path='wykresy/',
+                      fig.align='center', dpi = 300, tidy=TRUE,
+                      echo=FALSE, warning=FALSE, message=FALSE)
 ```
 
 ## GitHub Documents
@@ -28,3 +32,9 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+```{r}
+plot(mtcars$mpg, col = "red", pch = 15)
+```
+
