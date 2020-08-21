@@ -28,6 +28,7 @@ summary(cars)
 You can also embed plots, for example:
 
 ![](pod-podstrona_files/figure-gfm/pressure-1.png)<!-- -->
+(wykresy/frekwencja_mapa_II_tura-1.png)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
