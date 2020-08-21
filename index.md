@@ -6,6 +6,7 @@
 
 
 <!-- [Wybory 2020](/podstrona) -->
+[Wybory 2020](/podstrona)
 
 ---
 
