@@ -2,6 +2,7 @@
 
 [Mapy w większej rozdzielczości](https://github.com/rpalkowski/wybory-2020/tree/master/I_tura)
 
+[Pod-podstrona](/pod-podstrona)
 
 ------------------------------------------------------------------------
 
