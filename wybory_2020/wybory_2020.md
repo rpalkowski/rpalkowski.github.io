@@ -6,6 +6,8 @@
 
 <img src="./plots/poparcie_proc_top3-1.png" style="display: block; margin: auto;" />
 
+![poparcie](./plots/poparcie_proc_top3-1.png)
+
 [Mapy w większej rozdzielczości](https://github.com/rpalkowski/wybory-2020/tree/master/I_tura)
 
 ------------------------------------------------------------------------
