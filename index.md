@@ -9,6 +9,8 @@
 
 [Wybory 2020](/podstrona)
 
+[Wybory 2020](/wybory_2020/wybory_2020)
+
 ---
 
 [Wizualizacja na mapach wyników II tury wyborów prezydenckich 2020](/II_tura)
