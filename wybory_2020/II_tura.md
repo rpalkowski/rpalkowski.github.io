@@ -1,4 +1,4 @@
-[Powrót](./wybory_2020)
+[Powrót](/wybory_2020/wybory_2020)
 
 [Mapy w większej rozdzielczości](https://github.com/rpalkowski/wybory-2020/tree/master/II_tura)
 
@@ -20,4 +20,4 @@
 ------------------------------------------------------------------------
 
 
-[Powrót](./wybory_2020)
+[Powrót](/wybory_2020/wybory_2020)
