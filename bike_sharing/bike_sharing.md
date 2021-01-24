@@ -140,7 +140,7 @@ Postawiono następujące pytania badawcze:
 
 ##### **Rysunek 1.** Tendencja w liczbie wypożyczeń rowerów publicznych wśród użytkowników ogółem
 
-<img src="bike_sharing/plots/bike-sharing-1-1.png" style="display: block; margin: auto;" />
+<img src="./plots/bike-sharing-1-1.png" style="display: block; margin: auto;" />
 
 Liczba wypożyczeń rowerów publicznych ogółem w latach 2011-2012
 charakteryzowała się trendem rosnącym. Widoczny jest on względem
@@ -154,7 +154,7 @@ sprzyja przemieszczaniu się środkiem transportu jakim jest rower. W roku
 
 ##### **Rysunek 2.** Tendencja w liczbie wypożyczeń rowerów publicznych wśród użytkowników okazjonalnych
 
-<img src="bike_sharing/plots/bike-sharing-2-1.png" style="display: block; margin: auto;" />
+<img src="./plots/bike-sharing-2-1.png" style="display: block; margin: auto;" />
 
 Liczba wypożyczeń przez użytkowników, którzy wypożyczają rowery
 okazyjnie średnio oscylowała na poziomie około 1000 w roku 2011, a w
@@ -167,7 +167,7 @@ zaobserwowane w 2012 roku trochę wcześniej, bowiem już w marcu.
 
 ##### **Rysunek 3.** Tendencja w liczbie wypożyczeń rowerów publicznych wśród użytkowników zarejstrowanych
 
-<img src="bike_sharing/plots/bike-sharing-3-1.png" style="display: block; margin: auto;" />
+<img src="./plots/bike-sharing-3-1.png" style="display: block; margin: auto;" />
 
 Powyższy wykres wskazuje, że grupa użytkowników, którzy są zarejstrowani
 w systemie rowerów publicznych chętniej wypożycza rowery, niż grupa
@@ -184,7 +184,7 @@ poprzednim.
 
 ##### **Rysunek 4.** Struktura użytkowników systemu wypożyczeń rowerów publicznych
 
-<img src="bike_sharing/plots/bike-sharing-4-1.png" style="display: block; margin: auto;" />
+<img src="./plots/bike-sharing-4-1.png" style="display: block; margin: auto;" />
 
 Powyższy wykres wskazuje wyraźną przewagę użytkowników korzystajacych z
 systemu wypożyczalni rowerów publicznych, którzy są w nim zarejsertowani
@@ -196,7 +196,7 @@ użytkownicy zarejestrowani 2672662, a okazjonalni 620017 razy.
 
 ##### **Rysunek 5.** Rozkład wypożyczeń ogółem względem pory dnia
 
-<img src="bike_sharing/plots/bike-sharing-5-1.png" style="display: block; margin: auto;" />
+<img src="./plots/bike-sharing-5-1.png" style="display: block; margin: auto;" />
 
 Wykres pokazuje w jakich porach dnia w latach 2011-2012 nastąpiła
 największa liczba wypożyczeń rowerów wśród użytkowników ogółem. Można
@@ -215,7 +215,7 @@ od godziny 16.
 
 ##### **Rysunek 6.** Rozkład wypożyczeń rowerów względem dnia tygodnia z podziałem na rodzaj użytkowników
 
-<img src="bike_sharing/plots/bike-sharing-6-1.png" style="display: block; margin: auto;" />
+<img src="./plots/bike-sharing-6-1.png" style="display: block; margin: auto;" />
 
 Wykresy pokazują wyraźną różnicę pomiędzy użytkownikami, którzy są
 zarejestrowani w systemie wypożyczalni oraz tymi, którzy korzystają z
@@ -226,7 +226,7 @@ weekendy, a liczba wypożyczeń w dni pracujące jest znacząco niższa.
 
 ##### **Rysunek 7.** Rozkład wypożyczeń rowerów według rodzaju użytkowników względem miesiąca
 
-<img src="bike_sharing/plots/bike-sharing-7-1.png" style="display: block; margin: auto;" />
+<img src="./plots/bike-sharing-7-1.png" style="display: block; margin: auto;" />
 
 Kolejna grupa wykresów pokauzje różnice między typami użytkowników w
 systemie wypożyczalni. Użytkownicy zarejestrowani regularnie wypożyczją
@@ -243,7 +243,7 @@ przez warunki pogodowe i porę roku.
 
 ##### **Rysunek 8.** Rozkład wypożyczeń rowerów według rodzaju użytkowników wzglem pory roku
 
-<img src="bike_sharing/plots/bike-sharing-8-1.png" style="display: block; margin: auto;" />
+<img src="./plots/bike-sharing-8-1.png" style="display: block; margin: auto;" />
 
 Kolejne wykresy to uzupełnienie oraz potwierdzenie analiz wykonanych
 wcześniej. Ogółem ludzie częściej decydują się na wypożyczenie rowerów
@@ -255,7 +255,7 @@ wypożyczenie roweru w dzień wolny od pracy.
 
 ##### **Rysunek 9.** Struktura wypożyczeń rowerów według warunków pogodowych
 
-<img src="bike_sharing/plots/bike-sharing-9-1.png" style="display: block; margin: auto;" />
+<img src="./plots/bike-sharing-9-1.png" style="display: block; margin: auto;" />
 
 Najczęściej rowery były wypożyczane, gdy warunki atmosferyczne były
 bardzo dobre tj. było czyste niebo lub niewielkie, częściowe
@@ -485,7 +485,7 @@ mówiąc, jest funkcją punktu odcięcia.
 
 ##### **Rysunek 10.** Krzywa ROC dla opracowanego modelu regresji logistycznej
 
-<img src="bike_sharing/plots/bike-sharing-10-1.png" style="display: block; margin: auto;" />
+<img src="./plots/bike-sharing-10-1.png" style="display: block; margin: auto;" />
 
 Krzywą ROC interpertuje się następująco: najbardziej pożądaną jest
 maksymalna wartość pola powierzchni pomiędzy krzywą ROC, a prostą
