@@ -4,7 +4,7 @@
 
 [I tura](/wybory_2020/I_tura)
 
-# <img src="./plots/poparcie_proc_top3-1.png" style="display: block; margin: auto;" />
+<!-- <img src="./plots/poparcie_proc_top3-1.png" style="display: block; margin: auto;" /> -->
 
 ![Poparcie I tura](./plots/poparcie_proc_top3-1.png)
 
@@ -14,7 +14,7 @@
 
 [II tura](/wybory_2020/II_tura)
 
-# <img src="./plots/frekwencja_mapa_II_tura-1.png" style="display: block; margin: auto;" />
+<!--  <img src="./plots/frekwencja_mapa_II_tura-1.png" style="display: block; margin: auto;" /> -->
 
 ![Frekwencja II tura](./plots/frekwencja_mapa_II_tura-1.png)
 

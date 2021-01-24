@@ -12,6 +12,10 @@
 
 ------------------------------------------------------------------------
 
+<!--[Spotify](/spotify) --> 
+
+------------------------------------------------------------------------
+
 [Wizualizacja na mapach wyników I oraz II tury wyborów prezydenckich 2020](/wybory_2020/wybory_2020)
 <img src="https://github.com/rpalkowski/wybory-2020/blob/master/I_tura/wykresy/frekwencja_mapa-1.png?raw=true"/>
 
