@@ -1,4 +1,4 @@
-[Powrót](./)
+[Powrót](/index)
 
 Wstęp
 -----
@@ -259,4 +259,4 @@ Wykorzystane zbiory danych
     internetowej:
     <a href="https://www.wspolrzedne.pl/" class="uri">https://www.wspolrzedne.pl/</a>
 
-[Powrót](./)
+[Powrót](/index)

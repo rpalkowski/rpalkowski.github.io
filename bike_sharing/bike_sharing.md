@@ -1,4 +1,4 @@
-[Powrót](./)
+[Powrót](/index)
 
 
 ### <span style="color:#0066ff">**1. Źródło danych**</span>
@@ -556,4 +556,4 @@ przy zastosowaniu odpowiednich zabiegów np. oferta promocyjna w trakcie
 weekendów, mogą mieć wpływ na decyzję o skorzystaniu z usług
 wypożyczalni.
 
-[Powrót](./)
+[Powrót](/index)
