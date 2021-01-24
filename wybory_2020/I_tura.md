@@ -5,37 +5,37 @@
 
 ------------------------------------------------------------------------
 
-<img src="wybory_2020/plots/frekwencja_mapa-1.png" style="display: block; margin: auto;" />
+<img src="./plots/frekwencja_mapa-1.png" style="display: block; margin: auto;" />
 
-<img src="wybory_2020/plots/glosy_niewazne-1.png" style="display: block; margin: auto;" />
+<img src="./plots/glosy_niewazne-1.png" style="display: block; margin: auto;" />
 
-<img src="wybory_2020/plots/zwyciezcy_gminy-1.png" style="display: block; margin: auto;" />
+<img src="./plots/zwyciezcy_gminy-1.png" style="display: block; margin: auto;" />
 
-<img src="wybory_2020/plots/poparcie_proc_top3-1.png" style="display: block; margin: auto;" />
+<img src="./plots/poparcie_proc_top3-1.png" style="display: block; margin: auto;" />
 
-<img src="wybory_2020/plots/poparcie_proc_last5-1.png" style="display: block; margin: auto;" />
+<img src="./plots/poparcie_proc_last5-1.png" style="display: block; margin: auto;" />
 
-<img src="wybory_2020/plots/poparcie_proc_rt-1.png" style="display: block; margin: auto;" />
+<img src="./plots/poparcie_proc_rt-1.png" style="display: block; margin: auto;" />
 
-<img src="wybory_2020/plots/poparcie_proc_ad-1.png" style="display: block; margin: auto;" />
+<img src="./plots/poparcie_proc_ad-1.png" style="display: block; margin: auto;" />
 
-<img src="wybory_2020/plots/poparcie_proc_sh-1.png" style="display: block; margin: auto;" />
+<img src="./plots/poparcie_proc_sh-1.png" style="display: block; margin: auto;" />
 
-<img src="wybory_2020/plots/poparcie_proc_kb-1.png" style="display: block; margin: auto;" />
+<img src="./plots/poparcie_proc_kb-1.png" style="display: block; margin: auto;" />
 
-<img src="wybory_2020/plots/poparcie_proc_wkk-1.png" style="display: block; margin: auto;" />
+<img src="./plots/poparcie_proc_wkk-1.png" style="display: block; margin: auto;" />
 
-<img src="wybory_2020/plots/poparcie_proc_rb-1.png" style="display: block; margin: auto;" />
+<img src="./plots/poparcie_proc_rb-1.png" style="display: block; margin: auto;" />
 
-<img src="wybory_2020/plots/poparcie_proc_sz-1.png" style="display: block; margin: auto;" />
+<img src="./plots/poparcie_proc_sz-1.png" style="display: block; margin: auto;" />
 
-<img src="wybory_2020/plots/poparcie_proc_mj-1.png" style="display: block; margin: auto;" />
+<img src="./plots/poparcie_proc_mj-1.png" style="display: block; margin: auto;" />
 
-<img src="wybory_2020/plots/poparcie_proc_pt-1.png" style="display: block; margin: auto;" />
+<img src="./plots/poparcie_proc_pt-1.png" style="display: block; margin: auto;" />
 
-<img src="wybory_2020/plots/poparcie_proc_ww-1.png" style="display: block; margin: auto;" />
+<img src="./plots/poparcie_proc_ww-1.png" style="display: block; margin: auto;" />
 
-<img src="wybory_2020/plots/poparcie_proc_mp-1.png" style="display: block; margin: auto;" />
+<img src="./plots/poparcie_proc_mp-1.png" style="display: block; margin: auto;" />
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ Pozostałe imiona to imiona męskie.*
 Płeć członków komisji osądzimy na podstawie pierwszego imienia danej
 osoby.
 
-<img src="wybory_2020/plots/plec_przewazajaca-1.png" style="display: block; margin: auto;" />
+<img src="./plots/plec_przewazajaca-1.png" style="display: block; margin: auto;" />
 
 ------------------------------------------------------------------------
 
