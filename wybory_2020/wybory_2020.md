@@ -4,7 +4,7 @@
 
 [I tura](/wybory_2020/I_tura)
 
-<img src="wybory_2020/plots/poparcie_proc_top3-1.png" style="display: block; margin: auto;" />
+<img src="./plots/poparcie_proc_top3-1.png" style="display: block; margin: auto;" />
 
 [Mapy w większej rozdzielczości](https://github.com/rpalkowski/wybory-2020/tree/master/I_tura)
 
