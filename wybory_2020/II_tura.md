@@ -1,6 +1,6 @@
-﻿[Powrót](./)
+[Powrót](./)
 
-[Mapy w większej rozdzielczości](https://github.com/rpalkowski/wybory-2020/tree/master/I_tura)
+[Mapy w większej rozdzielczości](https://github.com/rpalkowski/wybory-2020/tree/master/II_tura)
 
 
 ------------------------------------------------------------------------
