@@ -12,7 +12,6 @@
 [Wizualizacja na mapach wyników I oraz II tury wyborów prezydenckich 2020](/wybory_2020/wybory_2020)
 <img src="https://github.com/rpalkowski/wybory-2020/blob/master/I_tura/wykresy/frekwencja_mapa-1.png?raw=true"/>
 
----
 
 <!-- [Wizualizacja na mapach wyników II tury wyborów prezydenckich 2020](/II_tura)
 <img src="https://github.com/rpalkowski/wybory-2020/blob/master/II_tura/wykresy/poparcie_proc_II_tura-1.png?raw=true"/>
