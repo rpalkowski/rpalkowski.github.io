@@ -139,7 +139,7 @@ powierzchnię lub zmieniać grubość granic. Istnieje również możliwość
 wyodrębnienia wybranego województwa i stworzenia dla niego oddzielnej
 mapy.
 
-<img src="basic_maps/plots/basic_maps_1-1.png" style="display: block; margin: auto;" />
+<img src="./plots/basic_maps_1-1.png" style="display: block; margin: auto;" />
 
 Kolejnym sposobem na wygenerowanie map jest użycie pakietów *maps* oraz
 *mapdata*.
@@ -152,7 +152,7 @@ krajów. Funkcja *map.axes* dodaje do uprzednio wczytanej mapy osie z
 szerokością oraz długością geograficzną. Natomiast funkcja *map.scale*
 nanosi skalę.
 
-<img src="basic_maps/plots/basic_maps_2-1.png" style="display: block; margin: auto;" />
+<img src="./plots/basic_maps_2-1.png" style="display: block; margin: auto;" />
 
 Wykorzystując możliwość podania współrzędnych geograficznych tj.
 szerokości (parametr *xlim*) oraz długości (parametr *ylim*), można
@@ -166,7 +166,7 @@ Poniższa sekcja kodu generuje mapę przedstawiającą Polskę wraz z krajami
 sąsiednimi. Powierzchnia wszystkich krajów zamalowana została wybranym
 kolorem.
 
-<img src="basic_maps/plots/basic_maps_3-1.png" style="display: block; margin: auto;" />
+<img src="./plots/basic_maps_3-1.png" style="display: block; margin: auto;" />
 
 Niewypełniona mapa konturowa nie wygląda atrakcyjnie. Dzięki funkcji
 *points* istnieje możliwość naniesienia punktów na podstawie
@@ -222,7 +222,7 @@ oznacza umieszczenie tekstu nad punktem). Parametr *pch* określa kształt
 punktu (zamalowana kropka), natomiast *col* jego kolor (czerwony).
 Ostateczny wygląd mapy:
 
-<img src="basic_maps/plots/basic_maps_4-1.png" style="display: block; margin: auto;" />
+<img src="./plots/basic_maps_4-1.png" style="display: block; margin: auto;" />
 
 Podsumowanie
 ---------------------------------------------------------------
