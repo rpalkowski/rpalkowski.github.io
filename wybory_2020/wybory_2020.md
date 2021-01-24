@@ -4,7 +4,7 @@
 
 [I tura](/I_tura)
 
-<img src="wybory_2020/plots/poparcie_proc_top3-1.png" style="display: block; margin: auto;" />
+<img src="plots/poparcie_proc_top3-1.png" style="display: block; margin: auto;" />
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 ------------------------------------------------------------------------
 
-<img src="wybory_2020/plots/frekwencja_mapa_II_tura-1.png" style="display: block; margin: auto;" />
+<img src="plots/frekwencja_mapa_II_tura-1.png" style="display: block; margin: auto;" />
 
 
 
