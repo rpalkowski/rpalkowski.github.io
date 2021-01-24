@@ -18,7 +18,7 @@
 
 [Wizualizacja na mapach wyników I oraz II tury wyborów prezydenckich 2020](/wybory_2020/wybory_2020)
 <!-- <img src="https://github.com/rpalkowski/wybory-2020/blob/master/I_tura/wykresy/frekwencja_mapa-1.png?raw=true"/> -->
-[Frekwencja I tura](./wybory_2020/plots/frekwencja_mapa-1.png)
+![Frekwencja I tura](./wybory_2020/plots/frekwencja_mapa-1.png)
 
 
 <!-- [Wizualizacja na mapach wyników II tury wyborów prezydenckich 2020](/II_tura)
