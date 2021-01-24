@@ -33,14 +33,16 @@
 
 ---
 
-[Analiza systemu wypożyczalni rowerów publicznych w Waszyngtonie](/bike_sharing)
-<img src="https://github.com/rpalkowski/bike-sharing/blob/master/wykresy/bike-sharing-1-1.png?raw=true"/>
+[Analiza systemu wypożyczalni rowerów publicznych w Waszyngtonie](/bike_sharing/bike_sharing)
+<!-- <img src="https://github.com/rpalkowski/bike-sharing/blob/master/wykresy/bike-sharing-1-1.png?raw=true"/> -->
+![Bike sharing](/bike_sharing/plots/bike-sharing-1-1.png)
 [Link do repozytorium projektu](https://github.com/rpalkowski/bike-sharing)
 
 ---
 
-[Podstawy wizualizacji map w R](/basic_maps)
-<img src="https://github.com/rpalkowski/basic-maps/blob/master/wykresy/basic_maps_4-1.png?raw=true"/>
+[Podstawy wizualizacji map w R](/basic_maps/basic_maps)
+<!-- <img src="https://github.com/rpalkowski/basic-maps/blob/master/wykresy/basic_maps_4-1.png?raw=true"/> -->
+![Basic maps](/basic_maps/plots/basic_maps_4-1.png)
 [Link do repozytorium projektu](https://github.com/rpalkowski/basic-maps)
 
 ---
