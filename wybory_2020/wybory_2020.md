@@ -2,7 +2,7 @@
 
 ------------------------------------------------------------------------
 
-[I tura](/wybory_2020/I_tura)
+[I tura wyborów prezydenckich - 28.06.2020](/wybory_2020/I_tura)
 
 <!-- <img src="./plots/poparcie_proc_top3-1.png" style="display: block; margin: auto;" /> -->
 
@@ -12,7 +12,7 @@
 
 ------------------------------------------------------------------------
 
-[II tura](/wybory_2020/II_tura)
+[II tura wyborów prezydenckich - 12.07.2020](/wybory_2020/II_tura)
 
 <!--  <img src="./plots/frekwencja_mapa_II_tura-1.png" style="display: block; margin: auto;" /> -->
 
